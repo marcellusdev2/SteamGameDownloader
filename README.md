@@ -28,6 +28,9 @@ Uygulama, oyun dosyalarını Steam kütüphanenizi kandırarak çalıştırmanı
 Daha fazla oyun dosyası ve yardım için Discord sunucumuza katılın:  
 [💬 Discord'a Katıl](https://discord.gg/ha3qcjnxnw)
 
+Tanıtım Videosu:
+[🔥 ARTIK TÜM OYUNLAR BEDAVA | AÇIK KAYNAK KODLU | Steam Game Downloader](https://www.youtube.com/watch?v=JiwDuvlVPss)
+
 ---
 
 ## 📄 Lisans
